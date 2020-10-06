@@ -7834,6 +7834,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 10
   range: 100
+  gun01: {fileID: 8300000, guid: f68e004204a7c9e4588b0dc822090b2f, type: 3}
+  gun02: {fileID: 8300000, guid: 9c02f935508f460449bacdbffb4ded86, type: 3}
+  gun03: {fileID: 8300000, guid: eb1ec3cfd2862c74e8e5218140e41070, type: 3}
   muzzleFlash: {fileID: 237883238}
   fpsCam: {fileID: 1399876361}
 --- !u!1 &1982708618
