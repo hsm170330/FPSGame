@@ -18,6 +18,8 @@ public class MainMenuController : MonoBehaviour
         {
             AudioManager.Instance.PlaySong(_startingSong);
         }
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
     public void ResetData()
     {
