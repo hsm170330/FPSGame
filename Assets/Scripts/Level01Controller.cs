@@ -84,5 +84,6 @@ public class Level01Controller : MonoBehaviour
         PauseMenu.SetActive(true);
         paused = true;
         Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
 }
